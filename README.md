@@ -1,5 +1,8 @@
 # Trace.EXE
-Trace.EXE is a game of terminal where your objective is to hack the secured ethical hacker that is trying to steal your data! Could you hack him before getting caught?
+**Trace.EXE** is a _terminal hacking_ game where an unknown ethical hacker has breached your network and is actively stealing your data.<br>
+Your only option is to **_fight back_**.<br>
+**Scan networks**, **infiltrate secure systems**, **bypass firewalls**, and l**aunch counterattacks** before your trace level reaches **100%**.<br>
+Can you hack the **_hacker_** before they find you?<br>
 
 # Version<br>
 Trace.EXE current release version is **v1.0.1A**<br>
