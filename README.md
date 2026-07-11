@@ -5,7 +5,9 @@ Your only option is to **_fight back_**.<br>
 Can you hack the **_hacker_** before they find you?<br>
 
 # Version<br>
-Trace.EXE current release version is **v1.0.1A**<br>
+Trace.EXE latest release version is **v1.0.1A**<br>
+Trace.EXE latest release snapshot is **none**<br>
+Trace.EXE latest unreleased snapshot is **v1.1.0-snapshot**<br>
 Trace.EXE oldest documented version is **v1.0.1.A**<br>
 Trace.EXE oldest un-documented version is **v0.0.1-alpha**<br>
 
@@ -16,6 +18,7 @@ Trace.EXE oldest un-documented version is **v0.0.1-alpha**<br>
 **- v0.0.5-beta**<br>
 **- v1.0.0B**<br>
 **- v1.0.1A** **_[Latest]_**<br>
+**- v1.1.0-snapshot** **_[Snapshot]_**<br>
 
 # Open Source Detail
 **Trace.EXE** is an open source project and can be modified, BUT you must contact the owner of the project in Discord or send a request in pull request.<br>
