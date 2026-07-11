@@ -1,0 +1,20 @@
+// Changelogs of Track.EXE v1.0.1A //
+
+// User Interface //
+- Created Smooth Black Green hacker style Interface
+- Terminal Font
+- Matrix Background
+- Blinking Type Cursor
+
+// Themes [BETA NOT FINISHED] //
+- Added Themes: Green, Amber, Cyber
+
+// Gameplay //
+- Updated Gameplay with Trace Level
+
+// Commands //
+- Added 27 new commands: about, version, date, time, exit, disconnect, ping, trace, status, netstat, whoami, users, passwd, ls, cd logs, cat admin.txt, download secrets.zip, rm evidence.log, decrypt vault, spoof trace, inject worm, bruteforce admin, bypass firewall, and other secret commands.
+- Added new categories: Basics, Network, User Information, Filesystem, Hacking Tools, Fun Commands, Hidden Commands.
+
+END
+Contact me if you want to collab or help!
