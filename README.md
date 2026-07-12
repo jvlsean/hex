@@ -22,4 +22,4 @@ hex! latest snapshot is **v1.1.0-snapshot** with codename of **Orange Bay**
 **hex!** doesnt uses copyrighted content, all contents are created by me! Assets can be reused for the game purposes only. No stealing (btw this game doesnt even have assets yet lol)
 
 # Coding Language
-**hex!** is using Lua coding language with Love2D framework. To play, make sure to go to Releases and find your OS. Currently supporting **Windows, Linux, and Mobile with Love2D** (Windows doesnt need Love2D, its already preinstalled in the zip file).
+**hex!** is using Lua coding language with Love2D framework. To play, make sure to go to Releases and find your OS. Currently supporting **Windows, Linux, and Mobile with Love2D** (Windows doesnt need **Love2D**, its already preinstalled in the zip file).
